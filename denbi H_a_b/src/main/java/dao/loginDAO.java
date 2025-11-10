@@ -35,7 +35,7 @@ public class loginDAO {
 	
 		      // SELECT文の結果をArrayListに格納
 		      while (rs.next()) {
-		        String userName = rs.getString("name");
+		        String userName = rs.getString("name")
 		        String pass = rs.getString("pass");
 		        User user = new User(name, pass);
 		        userList.add(user);
