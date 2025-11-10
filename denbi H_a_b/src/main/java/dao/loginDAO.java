@@ -1,1 +1,1 @@
-sotugyouseisaku saika kawamoto;
+sotugyouseisaku saika kawamoo;
