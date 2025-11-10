@@ -1,1 +1,1 @@
-watasitatino sotugyouseisakuha koredesu
+kouseiyasumunaunnti
