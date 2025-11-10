@@ -1,1 +1,1 @@
-watasitatino sotugyouseisakuha koredesu
+sotugyouseisaku saika kawamoto;
